@@ -1,7 +1,7 @@
 # SPSGP-438-Predicting-and-Analysing-urban-Water-Quality-using-Machine-Learning
 Predicting and Analysing urban Water Quality using Machine Learning
 
-By: Shubhasri Vanam
+By: Ankisetty Balaji
 
 Category: Machine Learning
 
